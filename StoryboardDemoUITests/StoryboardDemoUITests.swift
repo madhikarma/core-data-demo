@@ -1,6 +1,6 @@
 //
-//  CoreDataDemoUITests.swift
-//  CoreDataDemoUITests
+//  StoryboardDemoUITests.swift
+//  StoryboardDemoUITests
 //
 //  Created by Shagun Madhikarmi on 18/07/2020.
 //  Copyright © 2020 madhikarma. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class CoreDataDemoUITests: XCTestCase {
+class StoryboardDemoUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
